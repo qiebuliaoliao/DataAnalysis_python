@@ -1,2 +1,1 @@
-# DataAnalysis_python
-DataAnalysis_python
+# 《Python数据分析与挖掘实战》读书笔记
